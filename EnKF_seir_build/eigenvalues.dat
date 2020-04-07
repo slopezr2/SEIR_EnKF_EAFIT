@@ -1,0 +1,26 @@
+ TITLE = "Eigenvalues of C"
+ VARIABLES = "obs" "eigenvalues"
+ ZONE  F=POINT, I=    2 J=1 K=1
+  1  0.65438E+06
+  2   439.16    
+ ZONE  F=POINT, I=    2 J=1 K=1
+  1  0.55667E+06
+  2   124.88    
+ ZONE  F=POINT, I=    2 J=1 K=1
+  1  0.12277E+07
+  2   307.20    
+ ZONE  F=POINT, I=    2 J=1 K=1
+  1  0.46871E+06
+  2   342.25    
+ ZONE  F=POINT, I=    2 J=1 K=1
+  1  0.48019E+06
+  2   140.21    
+ ZONE  F=POINT, I=    2 J=1 K=1
+  1  0.62593E+06
+  2   197.51    
+ ZONE  F=POINT, I=    2 J=1 K=1
+  1  0.34745E+06
+  2   145.90    
+ ZONE  F=POINT, I=    2 J=1 K=1
+  1  0.76178E+06
+  2   317.55    
